@@ -1,0 +1,28 @@
+a{
+    color: rgb(0, 113, 133);
+}
+.nike{
+    font-weight: bolder;
+    font-size: 25px;
+}
+.p2{
+    font-weight: bold;
+    color: rgb(0, 118, 0);
+}
+.add{
+background-color: rgb(255, 216, 20);
+border-style: none;
+border-radius: 15px;
+height: 30px;
+width: 120px;
+cursor: pointer;
+margin-right: 6px;
+}
+.buy{
+    background-color: rgb(255, 164, 28);
+    border-style: none;
+    border-radius: 15px;
+    height: 30px;
+    width: 120px;
+    cursor: pointer;
+}
